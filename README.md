@@ -37,7 +37,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Prof-Claret&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Yukii&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
 ## 🤝 Connect with Me
